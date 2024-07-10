@@ -1,1 +1,1 @@
-[YOUTUBE CLONE](https://adityakhevaria.github.io/YouTube-Clone-website/)
+[YOUTUBE CLONE](https://adityakhevaria.github.io/YouTube-Clone/)
